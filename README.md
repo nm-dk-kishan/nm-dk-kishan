@@ -31,11 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nm-dk-kishan&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/nm-dk-kishan
 - LinkedIn: https://www.linkedin.com/in/shaurya-shukla-coder/
