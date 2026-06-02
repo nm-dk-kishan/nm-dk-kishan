@@ -34,6 +34,8 @@
 ## 📫 Connect With Me
 - GitHub: https://github.com/nm-dk-kishan
 - LinkedIn: https://www.linkedin.com/in/shaurya-shukla-coder/
+- Leetcode: https://leetcode.com/u/dontknow108/
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/shauryaiuopt?tab=activity
 
 ---
 
