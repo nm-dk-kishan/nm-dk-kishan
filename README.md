@@ -39,4 +39,4 @@
 
 ---
 
-⭐ *“[Those who forget past , are comdemned to repeat it.]”*
+⭐ *“[Those who forget past , are condemned to repeat it.]”*
