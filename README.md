@@ -39,4 +39,4 @@
 
 ---
 
-⭐ *“Learning today to build tomorrow.”*
+⭐ *“[Those who forget past , are comdemned to repeat it.]”*
